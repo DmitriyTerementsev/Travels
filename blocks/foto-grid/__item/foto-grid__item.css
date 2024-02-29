@@ -1,0 +1,5 @@
+.foto-grid__item {
+  width: 100%;
+  object-fit: contain;
+  image-rendering: auto;
+}
