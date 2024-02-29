@@ -10,4 +10,4 @@
 * Файловая структура по Nested
 
 
-*GitHub Pages: *https://dmitriyterementsev.github.io/Travels/*
+* GitHub Pages: *https://dmitriyterementsev.github.io/Travels/*
